@@ -11,11 +11,12 @@ class CustomNavbar extends Component {
             <img src={bank} width={50} height={30} className='d-inline-block align-top' alt='bank image'/>&nbsp; 
             DAPP Yield Staking (Decentralized Banking)
             </a>
-            <ul className='navbar-nv ml-auto px-3' style={{ marginRight: '0' }}>
-               <li className='text-nowrap nav-item'>
-                  <small style={{ color: 'white' }}>Account Number : {this.props.account}</small>
-               </li>
-            </ul>
+            <div className='navbar-nv ml-auto px-3' style={{ marginRight: '0' }}>
+    <div className='text-nowrap nav-item'>
+        <small style={{ color: 'white' }}>Account Number : {this.props.account}</small>
+    </div>
+</div>
+
          </BootstrapNavbar>
       );
    }
