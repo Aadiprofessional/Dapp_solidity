@@ -2,8 +2,8 @@
 
 **DappName** is a cutting-edge decentralized application designed to leverage blockchain technology for a seamless and secure user experience. Whether you're a developer, a blockchain enthusiast, or a business looking to harness the power of decentralization, DappName offers a robust suite of features to meet your needs.
 
-![DappName Banner](https://yourimagelink.com/banne![dapp-compound](https://github.com/user-attachments/assets/d4e0c4bd-e87c-42cf-bd6b-60f526a9fb05)
-r.jpg)
+![DappName Banner](https://github.com/user-attachments/assets/af0e35b0-5775-4f6d-8c11-c1f18721f2a4)
+
 
 ## 🌟 **Features**
 
@@ -28,24 +28,33 @@ r.jpg)
 ```bash
 git clone https://github.com/yourusername/dappname.git
 cd dappname
-
+```
 ## Install Dependencies
 
 ```bash
 npm install
 # or
 yarn install
+```
 ## Configure Environment Variables
+```bash
 REACT_APP_INFURA_PROJECT_ID=your_infura_project_id
 REACT_APP_NETWORK=ropsten
+```
 ## Compile Smart Contracts
+```bash
 truffle compile
+```
 ## Migrate Smart Contracts
+```bash
 truffle migrate --network ropsten
+```
 # *Run the App*
+```bash
 npm start
 # or
 yarn start
+```
 #📱 Usage
 - Connect Wallet: Use MetaMask or any other Ethereum wallet to connect to the Dapp.
 - Interact with Smart Contracts: Deploy and interact with smart contracts directly from the Dapp.
