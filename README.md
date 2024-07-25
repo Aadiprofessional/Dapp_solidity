@@ -55,7 +55,7 @@ npm start
 # or
 yarn start
 ```
-#📱 Usage
+# 📱 Usage
 - Connect Wallet: Use MetaMask or any other Ethereum wallet to connect to the Dapp.
 - Interact with Smart Contracts: Deploy and interact with smart contracts directly from the Dapp.
 - Manage Tokens: Transfer and manage your tokens with ease.
@@ -67,4 +67,4 @@ yarn start
 - Blockchain: Ethereum
 - Wallet Integration: MetaMask
 # 📧 Contact
-For any queries or feedback, please contact us at support@dappname.com.
+For any queries or feedback, please contact us at abhishek.kvoc@gmail.com.
